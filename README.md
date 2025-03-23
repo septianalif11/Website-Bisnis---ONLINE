@@ -12,7 +12,7 @@
 
 <!--- snake -->
 <div align="center">
-  <img  src="https://media.discordapp.net/attachments/1333751159743316110/1353183907817984111/logo_cahyo_1.jpg?ex=67e0ba38&is=67df68b8&hm=295d339d8a8d9067e89a75324d986454cc24e65b270ad506b189a3473a585aef&=&format=webp&width=968&height=968"
+  <img  src="https://media.discordapp.net/attachments/1333751159743316110/1353183907817984111/logo_cahyo_1.jpg?ex=67e0ba38&is=67df68b8&hm=295d339d8a8d9067e89a75324d986454cc24e65b270ad506b189a3473a585aef&=&format=webp&width=800&height=800"
        alt="snake" /></a>
 </div>
 
